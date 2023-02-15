@@ -8,17 +8,17 @@ import axios from 'axios'
 import moment from 'moment-timezone'
 
 global.owner = [
-  ['94764497078', '👑 SANDARU 👑', true],
-  ['94764497078']
+  ['493023180366', 'MkM Bot Inc.', true],
+  ['493023180366']
 ] 
-global.suittag = ['94764497078'] 
-global.prems = ['94764497078','94764497078'] 
+global.suittag = ['493023180366'] 
+global.prems = ['493023180366','4917662927731'] 
 
-global.packname = 'SANDARU'
-global.author = '⍟SANDARU'
-global.wm = '⍟SANDARU'
-global.igfg = '⍟SANDARU'
-global.wait = '*[❗] Wait, Processing...*'
+global.packname = 'Erstellt für User'
+global.author = 'MkM Inc.'
+global.wm = 'MkM Inc.'
+global.igfg = 'MkM Inc.'
+global.wait = '*Bitte Warten, bearbeitung...*'
 
 global.keysZens = ['fiktod', 'c2459db922', 'BF39D349845E', '675e34de8a', '37CC845916', '0b917b905e6f', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
